@@ -205,3 +205,22 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Streamlit cache & config
+.streamlit/
+
+# Data files
+*.csv
+*.xlsx
+!sample_data.xlsx   
+
+# Jupyter notebook checkpoints 
+.ipynb_checkpoints/
+
+# System files (macOS / Windows)
+.DS_Store
+Thumbs.db
+
+# Temporary folders
+temp/
+tmp/
