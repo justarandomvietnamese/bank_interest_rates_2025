@@ -3,5 +3,6 @@ streamlit
 pandas
 seaborn
 matplotlib
+plotly # Add plotly to requirements
 openpyxl # Add openpyxl to handle .xlsx files
 pyngrok
