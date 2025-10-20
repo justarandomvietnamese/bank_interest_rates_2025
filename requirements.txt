@@ -1,0 +1,7 @@
+
+streamlit
+pandas
+seaborn
+matplotlib
+openpyxl # Add openpyxl to handle .xlsx files
+pyngrok
