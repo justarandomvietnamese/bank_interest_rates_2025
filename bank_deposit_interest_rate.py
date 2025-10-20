@@ -10,7 +10,7 @@ from typing import List, Dict
 # =========================
 st.set_page_config(page_title="BANK DEPOSIT INTEREST RATES", page_icon="🏦", layout="wide")
 
-EXCEL_PATH = "/content/drive/MyDrive/KIS/dashboard data.xlsx"  # Updated Excel file path
+EXCEL_PATH = "dashboard data.xlsx"  # Updated Excel file path
 # SHEET_NAME = "Oct" # Updated Sheet name to "Oct" - This will be determined by the filter now
 
 TERM_COLS_EN = ['1M(%)', '3M(%)', '6M(%)', '9M(%)', '12M(%)']
