@@ -330,7 +330,7 @@ with st.sidebar:
     st.subheader("Select Filters")
 
     # Add month selection filter
-    selected_month = st.selectbox("Select Month", ["Oct", "Sep"]) # Added month selectbox
+    selected_month = st.selectbox("Select Month", ["Oct", "Sep", "Nov"]) # Added month selectbox
 
 
     # Load and process data based on selected month
